@@ -1,4 +1,3 @@
-### **Day 3: Docker Volumes and Networking (`Day-3/README.md`)**
 
 ### **Day 3: Docker Volumes and Networking**
 
@@ -53,7 +52,3 @@ Docker allows containers to communicate with each other through networking.
    ```bash
    docker network rm my-network
    ```
-
-### Next Step:
-Go to [Day 4: Docker-Compose](../Day-4/README.md)
-```

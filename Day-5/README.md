@@ -1,4 +1,3 @@
-### **Day 5: Multi-Stage Builds (`Day-5/README.md`)**
 
 ### **Day 5: Multi-Stage Builds**
 

@@ -1,4 +1,3 @@
-### **Day 4: Docker-Compose (`Day-4/README.md`)**
 
 ### **Day 4: Docker-Compose**
 
@@ -18,7 +17,3 @@ Docker Compose is a tool for defining and running multi-container Docker applica
    ```bash
    docker-compose down
    ```
-
-### Next Step:
-Go to [Day 5: Multi-Stage Builds](../Day-5/README.md)
-```
