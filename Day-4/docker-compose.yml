@@ -6,8 +6,3 @@ services:
       - "8080:80"
   redis:
     image: redis:alpine
-```
-
-2. **Run the Docker Compose**:
-   ```bash
-   docker-compose up

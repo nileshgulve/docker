@@ -1,6 +1,3 @@
-### **Day 6: Docker Swarm Tutorial (`Day-6/README.md`)**
-
-```markdown
 # Day 6: Docker Swarm
 
 ## Overview
